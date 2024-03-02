@@ -1,1 +1,7 @@
 learn github
+git clone 
+git config user.name
+git congig user.email
+git add filename
+git commit
+git push
